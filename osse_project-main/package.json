@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "ejs": "^3.1.10",
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "express-rate-limit": "^6.11.0",
     "fs": "^0.0.1-security",
     "gsap": "^3.12.2",
